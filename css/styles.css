@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: #3a3a3a;
+    font-family: 'poppin', sans-serif;
+}
+
+.section {
+    padding: 20px;
+    color: #2b2b2b;
+}
+
+.mission {
+    background-color: #DFDFDF; /* gray*/
+    text-align: center;
+}
+
+.who-we-are {
+    background-color: #0000; /* white */
+    text-align: center;
+}
+
+.what-we-do {
+    background-color:#DFDFDF; /* gray */
+    text-align: center;
+}
+
+.our-values {
+    background-color:#0000; /*white */
+    text-align: center;
+}
+
+.contact-us {
+    background-color: #DFDFDF; /* gray */
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    background-color: #444444;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color:white;
+}
+
+  
+
